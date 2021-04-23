@@ -30,4 +30,4 @@ The thermodynamic data to compute equilibrium constants is already provided with
 
 # References #
 
-Hakim et al. (2021), Lithologic Controls on Silicate Weathering Regimes of Temperate Planets. The Planetary Science Journal 2. doi:10.3847/PSJ/abe1b8
+Hakim et al. (2021), Lithologic Controls on Silicate Weathering Regimes of Temperate Planets. The Planetary Science Journal 2. https://doi.org/10.3847/PSJ/abe1b8
