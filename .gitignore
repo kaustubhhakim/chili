@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+submitted/
+resubmitted/
+river/
+history/
+old_nongit_code/
+database/.Rhistory
+database/.RData
+database/.DS_Store
+*.pdf
